@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e2e79d-6c91-43ea-89c6-c569bf5f66c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Prashant_Talele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/google_map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.flexslider-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/modernizr-2.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/_bootstrap-compass.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/_bootstrap-mincer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/_bootstrap-sprockets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_breadcrumbs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_button-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_component-animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_glyphicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_input-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_pager.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_popovers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_progress-bars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_responsive-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_responsive-utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_scaffolding.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_thumbnails.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/_wells.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_center-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_hide-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_opacity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/about.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/introduction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/timeline.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_badges.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_breadcrumbs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_button-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_carousel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_close.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_code.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_component-animations.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_dropdowns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_input-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_jumbotron.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_modals.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_navbar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_navs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_normalize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_pager.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_popovers.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_progress-bars.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_responsive-embed.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_responsive-utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_scaffolding.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_thumbnails.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_tooltip.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_type.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/2722f109f69056be553b2b68afe598daeebb4db4/_wells.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_center-block.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_hide-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_nav-vertical-align.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_opacity.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_progress-bar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_reset-filter.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_responsive-visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_tab-focus.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_text-overflow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c530804770d6947d8d9b3be2b263f881811e6ec/_vendor-prefixes.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_badges.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_breadcrumbs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_button-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_carousel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_close.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_code.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_component-animations.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_dropdowns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_input-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_jumbotron.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_modals.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_navbar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_navs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_normalize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_pager.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_popovers.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_progress-bars.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_responsive-embed.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_responsive-utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_scaffolding.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_thumbnails.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_tooltip.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_type.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/4c70a636372d70e6d55a7b4ea2b55da857d3381f/_wells.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_center-block.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_hide-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_nav-vertical-align.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_opacity.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_progress-bar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_reset-filter.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_responsive-visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_tab-focus.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_text-overflow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/622bee1680e77a88a09c5bb8c2729ad5564df547/_vendor-prefixes.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/6ba3269dc359f109f415edd45b5a5117f51926bf/bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/6ba3269dc359f109f415edd45b5a5117f51926bf/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/997c313c0c939f4e2270747dfd014c0ef42411f7/bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/997c313c0c939f4e2270747dfd014c0ef42411f7/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/afd9e85c4f3cba1c674cc86d57bef7f1e06bd242/bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/afd9e85c4f3cba1c674cc86d57bef7f1e06bd242/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_badges.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_breadcrumbs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_button-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_carousel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_close.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_code.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_component-animations.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_dropdowns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_input-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_jumbotron.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_modals.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_navbar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_navs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_normalize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_pager.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_popovers.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_progress-bars.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_responsive-embed.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_responsive-utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_scaffolding.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_thumbnails.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_tooltip.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_type.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/b372c61865b131a75989798ec9ffa624fda3c99f/_wells.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_center-block.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_hide-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_nav-vertical-align.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_opacity.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_progress-bar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_reset-filter.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_responsive-visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_tab-focus.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_text-overflow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/.sass-cache/e3f0abe5a50a2c3ad008c358edf35823ae2707ca/_vendor-prefixes.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/cover_bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img_bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img_bg_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/img_bg_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/google_map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/jquery.flexslider-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/modernizr-2.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/prepros-6.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/_bootstrap-compass.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/_bootstrap-mincer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/_bootstrap-sprockets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_breadcrumbs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_button-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_component-animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_glyphicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_input-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_pager.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_popovers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_progress-bars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_responsive-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_responsive-utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_scaffolding.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_thumbnails.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/_wells.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_center-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_hide-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_opacity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/jackson/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1469419443">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="17" />
+          <entry key="js" value="34" />
+          <entry key="json" value="46" />
+          <entry key="jsx" value="3438" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="17" />
+          <entry key="JSON" value="46" />
+          <entry key="JSX Harmony" value="3438" />
+          <entry key="JavaScript" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CNAME" value="1" />
+          <entry key="css" value="8" />
+          <entry key="eot" value="1" />
+          <entry key="html" value="5" />
+          <entry key="ico" value="1" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="3" />
+          <entry key="json" value="5" />
+          <entry key="jsx" value="12" />
+          <entry key="rnc" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="8" />
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="5" />
+          <entry key="JSX Harmony" value="12" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="RNG Compact" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/about.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2142">
+              <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/blog.jsx">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>favi</find>
+      <find>icon</find>
+      <find>icon-layers2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/public/images</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/css/owl.carousel.min.css" />
+        <option value="$PROJECT_DIR$/src/components/about.jsx" />
+        <option value="$PROJECT_DIR$/src/components/timeline.jsx" />
+        <option value="$PROJECT_DIR$/src/components/projects.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/sidebar.jsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/manifest.json" />
+        <option value="$PROJECT_DIR$/src/components/introduction.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="104" />
+    <option name="y" value="24" />
+    <option name="width" value="1555" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558229765438" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/images" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e2e79d-6c91-43ea-89c6-c569bf5f66c3" name="Default Changelist" comment="" />
+      <created>1558107812179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558107812179</updated>
+      <workItem from="1558107813758" duration="26422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26422000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="23" width="1555" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3312102" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24917382" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3312102" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/template/jackson/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1004" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/about.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/blog-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/jackson/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/fonts/icomoon/icomoon.eot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5142" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/icomoon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="258" column="10" selection-start-line="258" selection-start-column="1" selection-end-line="258" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/timeline.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="79" column="51" lean-forward="true" selection-start-line="79" selection-start-column="51" selection-end-line="79" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/js/main.fb569d7f.chunk.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/blog.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sidebar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/introduction.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="99" column="124" selection-start-line="99" selection-start-column="124" selection-end-line="99" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/about.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
