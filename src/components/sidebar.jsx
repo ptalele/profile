@@ -18,8 +18,8 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active"><a href="#" data-nav-section="home">Introduction</a></li>
                   <li><a href="#" data-nav-section="about">About</a></li>
-                <li><a href="#" data-nav-section="projects">Projects</a></li>
-                    {/* <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
+                  <li><a href="#" data-nav-section="projects">Projects</a></li>
+                  <li><a href="#" data-nav-section="blog">Blog</a></li>
                   <li><a href="#" data-nav-section="timeline">Timeline</a></li>
                 </ul>
               </div>
@@ -31,7 +31,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.instagram.com/ptalele2" target="_blank"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/prashant-talele-pmp-1859344" target="_blank"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/ptalele" target="_blank"><i className="icon-github"></i></a></li>
-                <li><a href="https://medium.com/@ptalele" target="_blank"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://medium.com/@prashant.talele" target="_blank"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
